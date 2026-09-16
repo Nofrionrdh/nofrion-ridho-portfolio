@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { FileText, ArrowRight, Code2, Sparkles, Server, Laptop, Award } from "lucide-react";
-import profileImage from "../assets/images/foto_diri3.jpeg";
+import profileImage from "../assets/images/foto_diri-nobg.png";
 
 interface HeroProps {
   onNavigate: (sectionId: string) => void;

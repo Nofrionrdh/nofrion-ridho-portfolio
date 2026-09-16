@@ -90,7 +90,7 @@ export default function ContactSection({ contactsList }: ContactProps) {
             className="group inline-flex items-center gap-3 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white px-8 py-4 rounded-2xl font-bold text-sm tracking-wide uppercase transition-all duration-300 shadow-xl shadow-blue-950/40 focus:outline-none"
           >
             <FileText className="w-4.5 h-4.5" />
-            <span>Download CV Lengkap</span>
+            <span>Download CV</span>
             <ArrowUpRight className="w-4 h-4 opacity-50 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-200" />
           </a>
         </motion.div>
